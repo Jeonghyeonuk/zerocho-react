@@ -25,7 +25,7 @@ const WordRelay = () => {
 		setValue(e.target.value);
 	}
 
-
+ 
 	return (
 		<>
 			<div>{word}</div>
